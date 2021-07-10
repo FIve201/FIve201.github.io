@@ -1,5 +1,3 @@
-<link rel="icon" href="https://github.com/CIAstore/CIAstore.github.io/blob/main/images/logo.jpg" type "image=" " -icon"="" />
-<link rel="shortcut icon" href="https://github.com/CIAstore/CIAstore.github.io/blob/main/images/logo.jpg" type "image=" " -icon"="" />
 <div style="text-align:center">
   <h1>导航</h1>
   </div>
